@@ -6,6 +6,11 @@ public class SimpleCal {
             return a + b;
         }
 
+    // Function to substract two numbers
+    public static int subNumbers(int a, int b) {
+        return a - b;
+    }
+
         public static void main(String[] args) {
             int num1 = 5;
             int num2 = 3;
